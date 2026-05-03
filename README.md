@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=8B0000center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ladymnria&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=TopDarkFlames&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,11 +30,11 @@
 
 **Full-Stack Developer**
 
-> *"We are born of the blood, made men by the blood, undone by the blood."*
+> > *"The Bird of Hermes is my name, eating my wings to make me tame."*
 
-Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
+Currently deepening my studies in **Java**, **SQL** and **Rust**, applying this knowledge to real personal projects — automation scripts, portfolios, and web tools.
 
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
+I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git**, **Python** and am currently exploring **AWS & Cloud Computing**.
 
 <img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
 
