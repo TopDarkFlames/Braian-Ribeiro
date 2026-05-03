@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;The+Bird+of+Hermes+is+my+name;To+become+a+monster+is+to+admit+you+were+too+weak+to+remain+human." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=26&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;The+Bird+of+Hermes+is+my+name;To+become+a+monster+is+to+admit+you+were+too+weak+to+remain+human." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -36,7 +36,7 @@ Currently deepening my studies in **Java**, **SQL** and **Rust**, applying this 
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git**, **Python** and am currently exploring **AWS & Cloud Computing**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
+<img align="right" width="240px" src="https://raw.githubusercontent.com/TopDarkFlames/Braian-Ribeiro/main/alucard-hellsing.gif" alt="character"/>
 
 <br clear="right"/>
 
