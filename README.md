@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/TopDarkFlames/Braian-Ribeiro/main/jhp.png" width="100%" alt="Banner Dark Souls"/>
 </div>
 
 <!-- TITLE -->
