@@ -118,5 +118,5 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 ---
 
 <div align="center">
-  <i>† <b><font color="#8B0000">To become a monster is to admit you were too weak to remain human</font></b> †</i>
+  <img src="https://raw.githubusercontent.com/TopDarkFlames/TopDarkFlames/main/frase-sangue.svg" alt="Blood Quote"/>
 </div>
