@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80">
+  <rect width="100%" height="100%" fill="#0d0d0d" />
+  
+  <style>
+    .text { font-family: 'Times New Roman', serif; font-size: 24px; font-weight: bold; font-style: italic; fill: #8B0000; }
+    .drip { fill: #8B0000; rx: 1.5; }
+  </style>
+
+  <text x="450" y="45" class="text" text-anchor="middle">† To become a monster is to admit you were too weak to remain human †</text>
+  
+  <!-- Gota 1 -->
+  <rect x="220" y="45" width="3" height="0" class="drip">
+    <animate attributeName="height" values="0; 15; 5" dur="2.5s" begin="0.5s" repeatCount="indefinite" />
+    <animate attributeName="y" values="45; 55; 65" dur="2.5s" begin="0.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1; 1; 0" dur="2.5s" begin="0.5s" repeatCount="indefinite" />
+  </rect>
+  
+  <!-- Gota 2 -->
+  <rect x="410" y="45" width="3" height="0" class="drip">
+    <animate attributeName="height" values="0; 18; 5" dur="2.5s" begin="1.2s" repeatCount="indefinite" />
+    <animate attributeName="y" values="45; 55; 65" dur="2.5s" begin="1.2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1; 1; 0" dur="2.5s" begin="1.2s" repeatCount="indefinite" />
+  </rect>
+  
+  <!-- Gota 3 -->
+  <rect x="580" y="45" width="3" height="0" class="drip">
+    <animate attributeName="height" values="0; 15; 5" dur="2.5s" begin="0.2s" repeatCount="indefinite" />
+    <animate attributeName="y" values="45; 55; 65" dur="2.5s" begin="0.2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1; 1; 0" dur="2.5s" begin="0.2s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Gota 4 -->
+  <rect x="740" y="45" width="3" height="0" class="drip">
+    <animate attributeName="height" values="0; 12; 5" dur="2.5s" begin="1.8s" repeatCount="indefinite" />
+    <animate attributeName="y" values="45; 55; 65" dur="2.5s" begin="1.8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1; 1; 0" dur="2.5s" begin="1.8s" repeatCount="indefinite" />
+  </rect>
+</svg>
