@@ -76,12 +76,12 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TopDarkFlames&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=TopDarkFlames&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=FF0000" alt="streak"/>
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TopDarkFlames&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopDarkFlames&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TopDarkFlames&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopDarkFlames&layout=compact&theme=dark&title_color=FF0000&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
@@ -91,7 +91,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TopDarkFlames&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/TopDarkFlames)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TopDarkFlames&bg_color=0d0d0d&color=FF0000&line=FF0000&point=ffffff&area=true&area_color=2b0000&hide_border=false&border_color=2a2a2a&title_color=FF0000)](https://github.com/TopDarkFlames)
 
 </div>
 
