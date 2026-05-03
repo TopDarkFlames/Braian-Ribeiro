@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=8B0000center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;The+Bird+of+Hermes+is+my+name;To+become+a+monster+is+to+admit+you+were+too+weak+to+remain+human." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -118,6 +118,6 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-*† Seek Paleblood to transcend the Hunt †*
+*† **To become a monster is to admit you were too weak to remain human** †*
 
 </div>
