@@ -36,7 +36,7 @@ Currently deepening my studies in **Java**, **SQL** and **Rust**, applying this 
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git**, **Python** and am currently exploring **AWS & Cloud Computing**.
 
-<img align="right" width="500px" src="https://raw.githubusercontent.com/TopDarkFlames/Braian-Ribeiro/main/alucard-hellsing.gif" alt="character"/>
+<img align="right" width="500px" height="800px" src="https://raw.githubusercontent.com/TopDarkFlames/Braian-Ribeiro/main/alucard-hellsing.gif" alt="character"/>
 
 <br clear="right"/>
 
