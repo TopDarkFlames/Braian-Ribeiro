@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TopDarkFlames/Braian-Ribeiro/main/jhp.png" width="100%" alt="Banner Dark Souls"/>
+  <img src="https://raw.githubusercontent.com/TopDarkFlames/TopDarkFlames/main/Hellsing%20Bats.gif"/>
 </div>
 
 <!-- TITLE ANIMADO -->
